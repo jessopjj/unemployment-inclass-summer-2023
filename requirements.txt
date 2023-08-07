@@ -10,7 +10,7 @@ python-dotenv
 
 # for web app:
 flask # <--- ADD FOR WEB APP
-gunicorn # <--- ADD FOR HOSTING APP 
+gunicorn # <--- ADD FOR HOSTING APP
 
 
 
