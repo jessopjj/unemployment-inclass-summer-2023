@@ -1,4 +1,4 @@
-# this is the "requirements.txt" file
+
 
 requests
 
@@ -6,12 +6,13 @@ pandas
 
 plotly
 
-
 python-dotenv
+
+# for web app:
+flask # <--- ADD FOR WEB APP
+gunicorn # <--- ADD FOR HOSTING APP 
+
 
 
 # for testing:
 pytest
-
-flask # <--- ADD FOR WEB APP
-#gunicorn
